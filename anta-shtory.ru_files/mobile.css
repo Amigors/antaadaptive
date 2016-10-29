@@ -1,23 +1,20 @@
 @media screen and (min-width: 850px) and (max-width: 1024px) {
-    .offers .product-item{
+    .offers .product-item {
         width:30% !important;
         margin:0;
     }
-
 }
 @media screen and (min-width: 720px) and (max-width: 849px) {
-    .offers .product-item{
+    .offers .product-item {
         width:40% !important;
         margin:0;
     }
-
 }
 @media screen and (min-width: 320px) and (max-width: 719px) {
-    .offers .product-item{
+    .offers .product-item {
         width:100% !important;
         margin:0;
     }
-
 }
 @media screen and (max-width: 1024px) {
     footer .present{
@@ -27,7 +24,7 @@
 }
 
 @media screen and (max-width: 320px) {
-    .offers .product-item{
+    .offers .product-item {
         width:100% !important;
         margin:0;
     }

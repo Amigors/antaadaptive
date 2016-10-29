@@ -2439,7 +2439,7 @@ footer .big_copyright p {
 .offers .product-item:nth-child(4n+4) {
     width: 23.4192037%;
     clear: right;
-    float: right;
+    /*float: right;*/
     margin-right: 0
 }
 
