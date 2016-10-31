@@ -3,6 +3,9 @@
         width:30% !important;
         margin:0;
     }
+    .header{
+
+    }
 }
 @media screen and (min-width: 720px) and (max-width: 849px) {
     .offers .product-item {
@@ -17,6 +20,10 @@
     }
 }
 @media screen and (max-width: 1024px) {
+    body{
+        width:auto;
+        display:block;
+    }
     footer .present{
         padding: 0 20px;
         box-sizing: border-box;
